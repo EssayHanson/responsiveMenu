@@ -28,6 +28,9 @@ nav a:hover{
 .toggle-nav,.hamburger{
 	display: none;
 }
+.expand{
+	display: block;
+}
 @media (max-width: 760px){
 	.toggle-nav{
 		display: block;
